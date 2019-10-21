@@ -1,0 +1,11 @@
+{
+  "name": "base.api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LeuAlmeida <leo@webid.net.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "sucrase": "^3.10.1"
+  }
+}
